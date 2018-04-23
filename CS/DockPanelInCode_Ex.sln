@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockPanelInCode_Ex", "DockPanelInCode_Ex\DockPanelInCode_Ex.csproj", "{5D5F95AD-6EBE-4777-80EC-0FA14D492E3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D5F95AD-6EBE-4777-80EC-0FA14D492E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5F95AD-6EBE-4777-80EC-0FA14D492E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5F95AD-6EBE-4777-80EC-0FA14D492E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5F95AD-6EBE-4777-80EC-0FA14D492E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
