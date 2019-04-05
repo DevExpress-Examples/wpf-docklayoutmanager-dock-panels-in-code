@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Window1.xaml](./CS/DockPanelInCode_Ex/Window1.xaml) (VB: [Window1.xaml](./VB/DockPanelInCode_Ex/Window1.xaml))
-* [Window1.xaml.cs](./CS/DockPanelInCode_Ex/Window1.xaml.cs) (VB: [Window1.xaml](./VB/DockPanelInCode_Ex/Window1.xaml))
+* [Window1.xaml.cs](./CS/DockPanelInCode_Ex/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/DockPanelInCode_Ex/Window1.xaml.vb))
 <!-- default file list end -->
 # How to: Dock a Panel to Another Panel in Code
 
