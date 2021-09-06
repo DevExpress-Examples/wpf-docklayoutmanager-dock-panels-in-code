@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockPanelInCode_Ex", "DockPanelInCode_Ex\DockPanelInCode_Ex.csproj", "{5D5F95AD-6EBE-4777-80EC-0FA14D492E3E}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockPanelInCode_Ex", "DockPanelInCode_Ex\DockPanelInCode_Ex.Net5.csproj", "{5D5F95AD-6EBE-4777-80EC-0FA14D492E3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
